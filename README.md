@@ -1,2 +1,3 @@
 # Weather-App
-Vanilla Javascript
+Is a weather app built using vanilla Js. This program is one within a series of weather apps that will be built using different methods.
+The next app will be built using react (coming soon)...
